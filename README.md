@@ -1,7 +1,13 @@
 # Lambdakit
 Lambda development kits for everyone
 
+![Image](https://dpyqzmj4uqf1r.cloudfront.net/lambdakit.png)
+
 This project provides Integrated Serverless environment using AWS CDK.
+
+Every Local Development environment is packaged into Container and deploy it into Lambda function.
+
+You can synchronize Dev environment same as Prod environment.
 
 ## How to use CDK?
 
